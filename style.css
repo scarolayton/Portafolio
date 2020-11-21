@@ -83,7 +83,7 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 90vh;
+  height: auto;
   flex-direction: column;
   background: url(galeria.jpg);
 
@@ -303,7 +303,7 @@ footer {
       rgba(255, 209, 255, 0.493) 100%
     ),
     url(galeria\(1\).jpg);
-  height: 120vh;
+  height: auto;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
