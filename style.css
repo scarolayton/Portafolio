@@ -406,7 +406,7 @@ footer {
     left: 0;
     top: 0;
     width: 50%;
-    height: auto;
+    height: 100%;
     margin-top: 0%;
     justify-content: space-around;
     background-color: violet;
