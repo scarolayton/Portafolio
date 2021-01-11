@@ -6,6 +6,7 @@
 }
 body {
   font-family: "Ubuntu", sans-serif;
+  transition: 1s;
 }
 a {
   color: black;
